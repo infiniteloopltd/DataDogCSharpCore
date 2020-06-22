@@ -1,0 +1,15 @@
+C:\Users\Fiach.000\source\repos\DataDog\DataDog\bin\Release\netcoreapp3.1\DataDog.exe
+C:\Users\Fiach.000\source\repos\DataDog\DataDog\bin\Release\netcoreapp3.1\DataDog.deps.json
+C:\Users\Fiach.000\source\repos\DataDog\DataDog\bin\Release\netcoreapp3.1\DataDog.runtimeconfig.json
+C:\Users\Fiach.000\source\repos\DataDog\DataDog\bin\Release\netcoreapp3.1\DataDog.runtimeconfig.dev.json
+C:\Users\Fiach.000\source\repos\DataDog\DataDog\bin\Release\netcoreapp3.1\DataDog.dll
+C:\Users\Fiach.000\source\repos\DataDog\DataDog\bin\Release\netcoreapp3.1\DataDog.pdb
+C:\Users\Fiach.000\source\repos\DataDog\DataDog\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Fiach.000\source\repos\DataDog\DataDog\obj\Release\netcoreapp3.1\DataDog.csprojAssemblyReference.cache
+C:\Users\Fiach.000\source\repos\DataDog\DataDog\obj\Release\netcoreapp3.1\DataDog.AssemblyInfoInputs.cache
+C:\Users\Fiach.000\source\repos\DataDog\DataDog\obj\Release\netcoreapp3.1\DataDog.AssemblyInfo.cs
+C:\Users\Fiach.000\source\repos\DataDog\DataDog\obj\Release\netcoreapp3.1\DataDog.csproj.CoreCompileInputs.cache
+C:\Users\Fiach.000\source\repos\DataDog\DataDog\obj\Release\netcoreapp3.1\DataDog.csproj.CopyComplete
+C:\Users\Fiach.000\source\repos\DataDog\DataDog\obj\Release\netcoreapp3.1\DataDog.dll
+C:\Users\Fiach.000\source\repos\DataDog\DataDog\obj\Release\netcoreapp3.1\DataDog.pdb
+C:\Users\Fiach.000\source\repos\DataDog\DataDog\obj\Release\netcoreapp3.1\DataDog.genruntimeconfig.cache

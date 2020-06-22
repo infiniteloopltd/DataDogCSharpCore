@@ -8,8 +8,8 @@ C:\Users\Fiach.000\source\repos\DataDog\DataDog\bin\Debug\netcoreapp3.1\DataDog.
 C:\Users\Fiach.000\source\repos\DataDog\DataDog\bin\Debug\netcoreapp3.1\DataDog.dll
 C:\Users\Fiach.000\source\repos\DataDog\DataDog\bin\Debug\netcoreapp3.1\DataDog.pdb
 C:\Users\Fiach.000\source\repos\DataDog\DataDog\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
-C:\Users\Fiach.000\source\repos\DataDog\DataDog\obj\Debug\netcoreapp3.1\DataDog.csproj.CoreCompileInputs.cache
 C:\Users\Fiach.000\source\repos\DataDog\DataDog\obj\Debug\netcoreapp3.1\DataDog.csproj.CopyComplete
 C:\Users\Fiach.000\source\repos\DataDog\DataDog\obj\Debug\netcoreapp3.1\DataDog.dll
 C:\Users\Fiach.000\source\repos\DataDog\DataDog\obj\Debug\netcoreapp3.1\DataDog.pdb
 C:\Users\Fiach.000\source\repos\DataDog\DataDog\obj\Debug\netcoreapp3.1\DataDog.genruntimeconfig.cache
+C:\Users\Fiach.000\source\repos\DataDog\DataDog\obj\Debug\netcoreapp3.1\DataDog.csproj.CoreCompileInputs.cache
